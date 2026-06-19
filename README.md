@@ -31,6 +31,7 @@ Kịch bản giả lập chia làm 2 Thread Groups chạy song song:
 ## II. Báo Cáo Kết Quả Kiểm Thử (Trích xuất từ Summary Report)
 
 Dưới đây là bảng dữ liệu thống kê chi tiết các chỉ số đo lường hiệu năng ghi nhận từ kết quả kiểm thử:
+![Kết quả kiểm thử](./kqua.png)
 
 | Nhãn Request (Label) | Số Mẫu Gửi Đi (# Samples) | TB (Average - ms) | Tối Thiểu (Min - ms) | Tối Đa (Max - ms) | Độ Lệch Chuẩn (Std. Dev.) | Tỷ Lệ Lỗi (Error %) | Tốc Độ Xử Lý (Throughput) | Nhận (Received KB/s) | Gửi (Sent KB/s) | Kích Thước TB (Avg. Bytes) |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
